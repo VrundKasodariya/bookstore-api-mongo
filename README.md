@@ -20,3 +20,11 @@ This is a simple Express + MongoDB REST API that allows CRUD operations on a col
 
 ## 📂 Project Structure
 
+bookstore-api-mongo/
+├── app.js # Main server file with API routes
+├── db.js # MongoDB connection logic
+├── package.json # Project metadata and scripts
+├── package-lock.json # Exact dependency versions
+├── .gitignore # Files ignored by Git (e.g. node_modules, .env)
+├── .env.example # Sample environment config
+└── README.md # Project documentation
