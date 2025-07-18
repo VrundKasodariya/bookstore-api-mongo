@@ -18,7 +18,7 @@ This is a simple Express + MongoDB REST API that allows CRUD operations on a col
 - MongoDB Atlas
 - Nodemon
 
-## 📂 Project Structure
+
 
 ## 📁 Project Structure
 
